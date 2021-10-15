@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **To be Extroverted**
 
-- 🤝 I’m looking for help with **Software Development**
-
 - 👨‍💻 All of my projects are available [@Sphinx500](github.com/Sphinx500)
 
 - 💬 Ask me about **System Designs and Philosophy 😆**
