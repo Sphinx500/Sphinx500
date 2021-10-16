@@ -168,7 +168,9 @@
   </a>
 </p>
 
-
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username={Sphinx500}&theme=blue-green" alt="example"/>
+</p>
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
