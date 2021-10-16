@@ -169,7 +169,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username={Sphinx500}&theme=blue-green" alt="example"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Sphinx500&theme=blue-green" alt="example"/>
 </p>
 
 <p align="center">
