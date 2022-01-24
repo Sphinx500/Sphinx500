@@ -173,10 +173,15 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sphinx500&theme=blue-green" alt="example"/>
+  </p>
+
+<p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
 <br>
+
 
 <p align="center">
   <img  src="http://ForTheBadge.com/images/badges/built-with-love.svg"
