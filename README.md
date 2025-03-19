@@ -14,6 +14,7 @@
 
 - ⚡ Fact **20% of your actions generate 80% of results**
 
+- Working on: IDS Comercial
 
 ---
 
